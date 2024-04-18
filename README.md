@@ -11,4 +11,3 @@ In this article, you will learn how to build type-safe forms using the powerful 
 ## About this Repository
 
 This repository accompanies the article `Mastering Form Validation in TypeScript Projects: A Comprehensive Guide with Zod and TypeScript` on the [Strapi blog](https://strapi.io/blog/mastering-form-validation-in-typescript-projects-a-comprehensive-guide-with-zod-and-typescript).
-
